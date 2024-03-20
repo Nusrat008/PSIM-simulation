@@ -1,1 +1,3 @@
 # PSIM-simulation
+
+Project details:
