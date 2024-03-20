@@ -17,8 +17,7 @@ of i) Input voltage, ii) Gate Pulses, iii) inductor current, iv) load and output
 currents, v) output voltage for each cases.
 
 <figure markdown="span">
-![Image title](PSIM-simulation/blob/246e693eab2503cc1078b40b457644066b90a84e/ckt-power-elctronics.png
-){ loading=lazy }
+![Image title](PSIM-simulation/blob/246e693eab2503cc1078b40b457644066b90a84e/ckt-power-elctronics.png){ loading=lazy }
   <figcaption>Proteus</figcaption>
 </figure>
 
