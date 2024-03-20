@@ -15,3 +15,14 @@ and inductor current ripple for each switching frequency. Show the final wave sh
 of i) Input voltage, ii) Gate Pulses, iii) inductor current, iv) load and output capacitor 
 currents, v) output voltage for each cases.
 
+
+
+REVIEW QUESTIONS
+1. Describe the effect the switching control signal frequency has on the output voltage 
+and current of a boost chopper. Explain.
+2. A boost chopper is powered by a 12V dc power supply. What is the output voltage 
+range of this chopper if the duty cycle can vary between 20 and 95%?
+3. With neat sketch of the circuit diagram draw the typical wave shapes of input voltage, 
+gate pulses, inductor current, switch and diode currents and voltages, load and output 
+capacitor currents and output voltage waveforms of DC-DC Boost converter. (Use graph 
+paper to answer the question
