@@ -1,5 +1,6 @@
 # PSIM-simulation
 **🔰  Design of Boost DC-DC Converter (Capstone Project)**
+
 Project details:
 
 In a UPS design a boost converter is required to have an output voltage of 150 V 
@@ -15,6 +16,11 @@ and inductor current ripple for each switching frequency. Show the final wave sh
 of i) Input voltage, ii) Gate Pulses, iii) inductor current, iv) load and output capacitor 
 currents, v) output voltage for each cases.
 
+<figure markdown="span">
+![Image title](PSIM-simulation/blob/246e693eab2503cc1078b40b457644066b90a84e/ckt-power-elctronics.png
+){ loading=lazy }
+  <figcaption>Proteus</figcaption>
+</figure>
 
 
 REVIEW QUESTIONS
