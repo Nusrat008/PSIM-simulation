@@ -16,7 +16,7 @@ and inductor current ripple for each switching frequency. Show the final wave sh
 of i) Input voltage, ii) Gate Pulses, iii) inductor current, iv) load and output capacitor 
 currents, v) output voltage for each cases.
 
-![alt text](https://github.com/Nusrat008/PSIM-simulation/blob/27be8ce502f6d984caf2cbfb567c7512ff6d5a9d/ckt-power-elctronics.png)
+![alt text](https://github.com/Nusrat008/PSIM-simulation/blob/9ac21b5af7d600b7a82cfcd305846d6024a03cd8/ckt-power-elctronics.png)
 
 
 REVIEW QUESTIONS
